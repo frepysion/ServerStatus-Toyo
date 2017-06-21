@@ -1,6 +1,6 @@
 # ServerStatus-frepyson： 
 
-* ServerStatus-Toyo版是一个酷炫高逼格的云探针、云监控、服务器云监控、多服务器探针~，该云监控（云探针）是ServerStatus（ https://github.com/ToyoDAdoubi/ServerStatus-Toyo ）项目的优化/修改版。
+* ServerStatus-frepysion版是一个酷炫高逼格的云探针、云监控、服务器云监控、多服务器探针~，该云监控（云探针）是ServerStatus（ https://github.com/ToyoDAdoubi/ServerStatus-Toyo ）项目的优化/修改版。
 * 在线演示：http://tz.toyoo.ml    
 
 # 目录介绍：
